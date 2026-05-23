@@ -2,19 +2,19 @@
 
 # Integrate with LobeHub
 
-LobeHub is an open-source AI agent workspace available in the browser and as native desktop apps. It includes provider management, model selection, agents, tasks, pages, skills, and long-context chat.
+LobeHub is your Chief Agent Operator. It organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 
 - **GitHub:** <https://github.com/lobehub/lobehub>
 - **Website:** <https://lobehub.com>
 - **Web app:** <https://app.lobehub.com>
-- **Download:** <https://lobehub.com/download>
+- **Desktop:** <https://lobehub.com/downloads/mac>
 
 #### 1. Prepare LobeHub and a DeepSeek API Key
 
-Use either the hosted web app, a self-hosted LobeHub instance, or the desktop app:
+Use the hosted web app, the desktop app, or a self-hosted LobeHub instance:
 
 - Web: open [app.lobehub.com](https://app.lobehub.com).
-- Desktop: download the macOS or Windows app from the [LobeHub download page](https://lobehub.com/download).
+- Desktop: download the macOS app from the [LobeHub download page](https://lobehub.com/downloads/mac).
 - Self-hosted: make sure your instance is updated to a recent build that includes DeepSeek V4 models.
 
 Then create an API Key from the [DeepSeek Platform](https://platform.deepseek.com/api_keys).
@@ -59,7 +59,7 @@ DeepSeek V4 models expose a **1M context window** in LobeHub. The built-in model
 
 #### 4. Tune Reasoning Intensity
 
-DeepSeek V4 thinking mode is available in LobeHub's model parameter controls. For normal usage, keep the default **high** reasoning intensity. For difficult coding, planning, and multi-step agent tasks, set **Reasoning Intensity** to **max**.
+DeepSeek V4 thinking mode is available in LobeHub's model parameter controls, opened from the upper-right corner of the chat page. For normal usage, keep the default **high** reasoning intensity. For difficult coding, planning, and multi-step agent tasks, set **Reasoning Intensity** to **max**.
 
 Available DeepSeek V4 reasoning levels in LobeHub:
 

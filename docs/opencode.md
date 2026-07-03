@@ -6,6 +6,10 @@ OpenCode is an open-source AI coding assistant available in terminal, web, and o
 
 #### 1. Install OpenCode Terminal
 
+OpenCode is installed via npm, which requires [Node.js](https://nodejs.org) (LTS recommended).
+
+After installing Node.js, type the following in your terminal
+
 ```bash
 npm i -g opencode-ai
 ```

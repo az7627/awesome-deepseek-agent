@@ -24,3 +24,4 @@ To avoid compatibility issues, ensure the version is >= v1.14.24.
 - Type `/connect` in the input box, then enter `deepseek` and select the provider<br/>
 - Enter your [DeepSeek API Key](https://platform.deepseek.com/api_keys)<br/>
 - Select the DeepSeek-V4-Pro model
+- In the Select variant dialog, select max.

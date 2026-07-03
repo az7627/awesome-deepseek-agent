@@ -4,11 +4,15 @@
 
 OpenCode is an open-source AI coding assistant available in terminal, web, and other forms.
 
-#### 1. Install OpenCode
+#### 1. Install OpenCode Terminal
 
-For installation instructions, please refer to the [OpenCode download page](https://opencode.ai/download).
+```bash
+npm i -g opencode-ai
+```
 
-To avoid compatibility issues, it is strongly recommended to upgrade OpenCode to the latest version, ensuring the version number is >= v1.14.24.
+> Alternatively, use `curl -fsSL https://opencode.ai/install | bash`, `brew install anomalyco/tap/opencode`, etc. See the [download page](https://opencode.ai/download) for all options.
+
+To avoid compatibility issues, ensure the version is >= v1.14.24.
 
 #### 2. Run and Configure
 

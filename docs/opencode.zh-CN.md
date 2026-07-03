@@ -4,7 +4,7 @@
 
 OpenCode 是一个开源 AI 编程助手，提供终端、网页等运行形式。
 
-#### 1. 安装 OpenCode 终端版
+#### 1. 安装 OpenCode 终端
 
 OpenCode 通过 npm 安装，请先安装 [Node.js](https://nodejs.org/zh-cn/download)（LTS 版本即可）。
 

@@ -4,11 +4,15 @@
 
 OpenCode 是一个开源 AI 编程助手，提供终端、网页等运行形式。
 
-#### 1. 安装 OpenCode
+#### 1. 安装 OpenCode 终端版
 
-前往官方下载页面安装或升级：[OpenCode 下载](https://opencode.ai/zh/download)
+```bash
+npm i -g opencode-ai
+```
 
-为避免兼容性问题，强烈建议您升级为 OpenCode 为最新版本，确保版本号 >= v1.14.24。
+> 也可通过 `curl -fsSL https://opencode.ai/install | bash`、`brew install anomalyco/tap/opencode` 等方式安装，详见[官方下载页](https://opencode.ai/zh/download)。
+
+为避免兼容性问题，强烈建议升级至最新版本，确保版本号 >= v1.14.24。
 
 #### 2. 运行与配置
 

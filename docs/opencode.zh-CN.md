@@ -24,3 +24,4 @@ npm i -g opencode-ai
 - 输入框中输入 `/connect`，然后输入 `deepseek` 并选择供应商<br/>
 - 填入 [DeepSeek API Key](https://platform.deepseek.com/api_keys)<br/>
 - 选择 DeepSeek-V4-Pro 模型
+- 在 Select variant 对话框中，选择 max
